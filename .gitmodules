@@ -1,3 +1,6 @@
 [submodule "Lab-5/L5_12_room_scheduler"]
 	path = Lab-5/L5_12_room_scheduler
 	url = https://github.com/anshdeep-sachdeva/L5_12_room_scheduler.git
+[submodule "Lab-6/L6_L7_12_cloud_storage_tier"]
+	path = Lab-6/L6_L7_12_cloud_storage_tier
+	url = https://github.com/anshdeep-sachdeva/L6_L7_12_cloud_storage_tier.git
