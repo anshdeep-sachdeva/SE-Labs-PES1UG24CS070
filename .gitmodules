@@ -4,3 +4,6 @@
 [submodule "Lab-6/L6_L7_12_cloud_storage_tier"]
 	path = Lab-6/L6_L7_12_cloud_storage_tier
 	url = https://github.com/anshdeep-sachdeva/L6_L7_12_cloud_storage_tier.git
+[submodule "Lab-7/L6_L7_12_cloud_storage_tier"]
+	path = Lab-7/L6_L7_12_cloud_storage_tier
+	url = https://github.com/anshdeep-sachdeva/L6_L7_12_cloud_storage_tier.git
